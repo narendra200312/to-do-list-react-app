@@ -1,0 +1,69 @@
+
+
+.card-body{
+    border-radius: 10px !important;
+    transition: all 0.5s ease-in-out;
+}
+.btn{
+    transition: all 0.5s ease-in-out;
+}
+
+
+img{
+    display: inline !important;
+    width: 400px !important;
+    height: 400px !important;
+}
+
+.bg-info{
+    background-color: color-mix(in srgb-linear, rgb(39, 13, 133) 80%, whitesmoke 20%) !important;
+}
+
+#i{
+    display: inline;
+    width: 400px;
+}
+
+p{
+    margin: 10px;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+}
+
+
+.my-bg{
+    background: linear-gradient(to right, #264653, #299e8c);
+    
+}
+
+
+
+.navlink{
+    color: whitesmoke;
+    font-size: larger;
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+}
+
+.navlink:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.card0{
+    margin-top: 100px;
+}
+
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.7;
+}
+
+
+.my-bg-2{
+    
+    border-bottom:2px double #264653;
+}
